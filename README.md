@@ -1,0 +1,2 @@
+# .github
+OpenSimulator Stack Organisation
