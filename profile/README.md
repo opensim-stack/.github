@@ -1,6 +1,6 @@
 # OpenSimulator Stack
 
-OpenSimulator Stack groups together a number of projects, mostly docker containers with the goal of making it easy for you to build a self-hosted virtual world using and inhabited by machine intelligence.
+OpenSimulator Stack groups together a number of projects, mostly docker containers with the goal of making it easy for you to build a self-hosted virtual world using and inhabited by machine intelligence. Find out more at https://opensim-stack.github.io/
 
 The [stack](https://github.com/opensim-stack/opensim-ai-docker) brings together ..
 
