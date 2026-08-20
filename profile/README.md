@@ -13,5 +13,7 @@ Along with some custom components that give the AI agents abilities in the virtu
  * [opensim-console2mcp](https://github.com/opensim-stack/opensim-console2mcp). An MCP server that exposes the OpenSimulator console to agents.
  * [opensim-metaverse2mcp](https://github.com/opensim-stack/opensim-metaverse2mcp). An MCP server that logs on as a bot to the virtual world. The goal is, anything a player can do in world, the bot can do as well. A lot is already covered!
  * [opensim-blender](https://github.com/opensim-stack/opensim-blender). An MCP server that runs with a headless [Blender](https://www.blender.org/lab/mcp-server/) instance, allowing creation and import of 3D models from inside the Simulator. *In progress*
+ * [opensim-piper](https://github.com/opensim-stack/opensim-piper). A build of [Piper TTS](https://github.com/OHF-Voice/piper1-gpl) specifically for Opensim Stack.
+ * [opensim-spawner](https://github.com/opensim-stack/opensim-spawner). Marshals creation and managing of addition bots (each bot has 2 containers to itself)
  
  
